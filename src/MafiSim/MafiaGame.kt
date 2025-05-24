@@ -3,7 +3,7 @@ package com.behnamuix.tenserpingx.src.ClassExample.MafiSim
 fun main() {
     println("Mafia Simulator v1.0.0")
     println("Coded by:ArcaDroid")
-    println("1404/03/03")
+    println("1404/03/02")
     loading()
     val player = listOf("behnam", "ghazal", "ArcaDroid", "mohamad", "pari", "tara","raha")
     val game = MafiaGame(player)
